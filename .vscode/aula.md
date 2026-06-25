@@ -1,0 +1,17 @@
+- [] não determinística; probabilistica (IA)
+- [] contexto
+- [] LLM Large Language Model
+- [] autocomplete //
+- [] active recall
+- [] Explicações (peça detalhes e explique os first priciples)
+  - [] cuidados: nem sempre tudo é verdade
+  - [] alucinção
+- [] Agentes: Agente, Ask (Tirar dúvidas , pensar junto, ter ideias, explicar...)
+- [] Planejar então gerar (Plan) //criar lista de tarefas
+- [] Gerar então explicar (agent) // Criar e explicar
+- [] Motivação com micro vitórias
+- [] tree of thought: árvore de aprendizado
+- [] Documentação
+- [] PARE: Pergunte, anote, revise, explique e PARE
+- [] Reescreva!
+- [] Entender, Escrever , Resolver
